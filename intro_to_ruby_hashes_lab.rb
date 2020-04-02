@@ -1,13 +1,18 @@
 def new_hash
-
+  artist_album = {}
+  artist_album
 end
 
 def actor
-
+  actor = {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+    :railroads => {
+      :pieces => 4
+    }
+  }
 
 end
 
